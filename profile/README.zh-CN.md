@@ -24,9 +24,9 @@ ByteFolk 帮助你组织 AI 员工、积累有用的知识并协作文档。
 
 创建项目、组织数字员工，按岗位发起对话。在本地工作区里管理组织、文档和任务历史。
 
-**桌面预览版已发布。** [macOS Apple Silicon](https://github.com/bytefolk/roleweave/releases/download/v0.1.1/roleweave-0.1.1-arm64.dmg) · [Windows x64](https://github.com/bytefolk/roleweave/releases/download/v0.1.1/roleweave-0.1.1-x64.exe) · [版本说明](https://github.com/bytefolk/roleweave/releases/tag/v0.1.1)
+**桌面预览版已发布。** [macOS Apple Silicon](https://github.com/bytefolk/roleweave/releases/download/v0.1.2/roleweave-0.1.2-arm64.dmg) · [Windows x64](https://github.com/bytefolk/roleweave/releases/download/v0.1.2/roleweave-0.1.2-x64.exe) · [版本说明](https://github.com/bytefolk/roleweave/releases/tag/v0.1.2)
 
-> 当前 v0.1.1 安装包面向 macOS Apple Silicon 和 Windows x64。安装包尚无
+> 当前 v0.1.2 安装包面向 macOS Apple Silicon 和 Windows x64。安装包尚无
 > Apple Developer ID 签名/公证或 Windows Authenticode 签名，安装或首次启动
 > 可能出现安全提示。默认桌面 Host 需要本机安装 Qoder CLI 1.1.x，并具备可用的账号权限。
 
