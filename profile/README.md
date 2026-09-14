@@ -27,9 +27,9 @@ Create a project, organize digital employees, and work with them through
 role-based conversations. Keep the organization, documents, and task history
 in one local workspace.
 
-**Desktop preview available.** [macOS Apple Silicon](https://github.com/bytefolk/roleweave/releases/download/v0.1.1/roleweave-0.1.1-arm64.dmg) · [Windows x64](https://github.com/bytefolk/roleweave/releases/download/v0.1.1/roleweave-0.1.1-x64.exe) · [Release notes](https://github.com/bytefolk/roleweave/releases/tag/v0.1.1)
+**Desktop preview available.** [macOS Apple Silicon](https://github.com/bytefolk/roleweave/releases/download/v0.1.2/roleweave-0.1.2-arm64.dmg) · [Windows x64](https://github.com/bytefolk/roleweave/releases/download/v0.1.2/roleweave-0.1.2-x64.exe) · [Release notes](https://github.com/bytefolk/roleweave/releases/tag/v0.1.2)
 
-> The current v0.1.1 installers are for macOS Apple Silicon and Windows x64.
+> The current v0.1.2 installers are for macOS Apple Silicon and Windows x64.
 > They are not Apple Developer ID-signed/notarized or Windows Authenticode-signed;
 > installation or first launch may show a security prompt. The default desktop
 > host needs a locally installed Qoder CLI 1.1.x and working account access.
